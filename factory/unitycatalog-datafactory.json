@@ -1,0 +1,9 @@
+{
+	"name": "unitycatalog-datafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43274843-104a-4d57-8395-2707eef80120",
+		"tenantId": "1688abf7-146a-414f-bf13-5322281402f2"
+	}
+}
